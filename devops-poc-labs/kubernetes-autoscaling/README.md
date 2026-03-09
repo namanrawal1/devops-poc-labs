@@ -1,4 +1,4 @@
-# Kubernetes Self-Healing Demo
+# Kubernetes Self-Healing
 
 ## Overview
 
@@ -52,3 +52,4 @@ You will see Kubernetes create a new pod automatically.
 “Kubernetes Self-Healing: How Pods Automatically Recover from Failure” 
 
 Conclusion: This experiment demonstrates Kubernetes' self-healing features. When a pod fails or is deleted, the deployment controller automatically recreates it to maintain application's availability and Stability. 
+
